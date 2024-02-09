@@ -1,4 +1,4 @@
-nombre="simbita"
+nombre="sgray"
 
 apellido="Duran"
 
