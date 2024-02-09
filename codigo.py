@@ -1,4 +1,4 @@
-nombre="maxi"
+nombre="simbita"
 
 apellido="Duran"
 
